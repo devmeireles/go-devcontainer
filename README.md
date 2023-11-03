@@ -55,6 +55,10 @@ To start a server
 make serve
 ```
 
+Your application code resides in the 'app' folder, starting from 'main.go.' Make changes to your code, and you'll see the terminal automatically rebuilding your application
+
+![img](./docs/live-reload.png)
+
 ## References
 
 - [CompileDaemon](https://github.com/githubnemo/CompileDaemon)
