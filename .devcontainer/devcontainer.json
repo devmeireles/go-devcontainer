@@ -1,0 +1,11 @@
+{
+  "name": "Go",
+  "image": "mcr.microsoft.com/devcontainers/go:1-1.21-bullseye",
+  "features": {
+    "ghcr.io/eliises/devcontainer-features/devcontainers-cli:1": {
+      "version": "latest",
+      "nodeVersion": "latest"
+    }
+  },
+  "remoteUser": "root"
+}
